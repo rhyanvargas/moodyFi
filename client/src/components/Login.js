@@ -23,8 +23,6 @@ const Login = () => {
     <Button color="primary" variant="contained" href={AUTH_URL}>
             Login with Spotify
     </Button>
-       {/* <a className="py-2 px-4 font-semibold rounded-lg shadow-md text-white bg-green-500 hover:bg-green-700 " href={AUTH_URL}>
-        </a> */}
     </>
   )
 }
