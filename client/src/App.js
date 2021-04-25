@@ -21,7 +21,7 @@ function App() {
       <Container maxWidth="md">
         <div>
           <Typography variant="h1">Welcome to MoodyFi!</Typography>
-          <h3>Discover your mood based on your Spotify listening history!</h3>
+          <Typography variant="body1">Discover your mood based on your Spotify listening history!</Typography>
           <Login/>
         </div>
       </Container>

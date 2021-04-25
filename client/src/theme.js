@@ -33,10 +33,11 @@ let defaultTheme = createMuiTheme({
   },
   palette: {
     primary: {
-      main: '#1db954'
+      main: '#1db954', // spotify green
+      contrastText: "white"
     },
     secondary: {
-      main:'#191414',
+      main:'#191414', // spotify black
     } ,
   },
 });
